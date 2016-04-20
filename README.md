@@ -1,2 +1,3 @@
 # AngularJS-Sample1
-Angularjs Sample Application
+Angularjs Sample Application 
+Sample1
